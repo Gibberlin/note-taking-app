@@ -34,10 +34,13 @@ body{
     display: inline;
     margin: 2rem;
     padding: 2rem;
+    margin-top: 10rem;
+    font-size: large;
 }
 li:hover{
     cursor: pointer;
-    background-color: aqua;
+    background-color: $footer;
+    border-radius: 10%;
 }
 
 .navbar .logo{

@@ -7,7 +7,7 @@ export const Nav = () => {
     <ul>
     <li className='logo'>logo</li>
     <span className='nav-links'>
-    <li>Home</li>
+    <li selected>Home</li>
     <li>About</li>
     <li>Contact</li>
     </span>
